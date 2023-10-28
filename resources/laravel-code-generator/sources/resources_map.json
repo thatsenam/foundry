@@ -1,0 +1,30 @@
+[
+    {
+        "model-name": "Post",
+        "resource-file": "posts.json"
+    },
+    {
+        "model-name": "PostMedia",
+        "resource-file": "post_media.json"
+    },
+    {
+        "model-name": "PostComment",
+        "resource-file": "post_comments.json"
+    },
+    {
+        "model-name": "React",
+        "resource-file": "reacts.json"
+    },
+    {
+        "model-name": "PostTag",
+        "resource-file": "post_tags.json"
+    },
+    {
+        "model-name": "Category",
+        "resource-file": "categories.json"
+    },
+    {
+        "model-name": "Channel",
+        "resource-file": "channels.json"
+    }
+]
